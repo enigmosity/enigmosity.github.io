@@ -12,8 +12,19 @@
 
 h1 {
     font-family: 'Courier New', Courier, monospace;
+    color: #EEEADE;
 }
 
 p {
     font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    color: #EEEADE;
+}
+
+a {
+    color: #3cdfff;
+}
+
+body {
+    background-color: #008080;
 }

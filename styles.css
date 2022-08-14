@@ -13,11 +13,12 @@
 h1 {
     font-family: 'Courier New', Courier, monospace;
     color: #EEEADE;
+    font-size: xx-large;
 }
 
 p {
     font-family: 'Courier New', Courier, monospace;
-    font-size: larger;
+    font-size: x-large;
     color: #EEEADE;
 }
 
